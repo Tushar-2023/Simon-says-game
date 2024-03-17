@@ -1,0 +1,7 @@
+SimonSay
+-------------
+
+.)keypress 
+  hme btata hai ki object ke uper koi bhi key press hui hai
+
+.)store the highest score and print it on the screen
